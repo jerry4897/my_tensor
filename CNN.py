@@ -55,3 +55,23 @@ accuracy = tf.reduce_mean(tf.cast(is_correct, tf.float32))
 
 print('정확도:', sess.run(accuracy, feed_dict={X: mnist.test.images.reshape(-1, 28, 28, 1),
                                               Y: mnist.test.labels, keep_prob: 1}))
+
+
+######## Result
+Epoch: 0001 Avg. cost = 0.349
+Epoch: 0002 Avg. cost = 0.108
+Epoch: 0003 Avg. cost = 0.077
+Epoch: 0004 Avg. cost = 0.060
+Epoch: 0005 Avg. cost = 0.049
+Epoch: 0006 Avg. cost = 0.041
+Epoch: 0007 Avg. cost = 0.036
+Epoch: 0008 Avg. cost = 0.032
+Epoch: 0009 Avg. cost = 0.026
+Epoch: 0010 Avg. cost = 0.025
+Epoch: 0011 Avg. cost = 0.023
+Epoch: 0012 Avg. cost = 0.020
+Epoch: 0013 Avg. cost = 0.019
+Epoch: 0014 Avg. cost = 0.015
+Epoch: 0015 Avg. cost = 0.016
+최적화 완료!
+정확도: 0.9921
