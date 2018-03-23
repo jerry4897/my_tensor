@@ -85,4 +85,4 @@ for epoch in range(total_epoch):
         plt.savefig('samples/{}.png'.format(str(epoch).zfill(3)), bbox_inches='tight')
         plt.close(fig)
 
-print('최적화 완료!')
+print('Optimization Complete!')
