@@ -1,6 +1,8 @@
 # Deep Learning Self Study
 ## Tensorflow, Jupyter notebook, Anaconda
 
+## Using Tensorboard
+
 ## autoencoder.py
 ![Autoencoder_result](./image/autoencoder.JPG)
 
