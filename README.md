@@ -2,7 +2,7 @@
 ## Tensorflow, Jupyter notebook, Anaconda
 
 ## Using Tensorboard
-Notify! Do not insert 'Hangeul' in directory path.
+Notify! Do not insert 'Korean' in directory path.
 ## autoencoder.py
 ![Autoencoder_result](./image/autoencoder.JPG)
 
