@@ -15,3 +15,4 @@ below images are made by autoencoder.
 
 ## Stock
 rnn
+DQN
