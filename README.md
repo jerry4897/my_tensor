@@ -14,5 +14,7 @@ below images are made by autoencoder.
 ### result : "g you want to build a ship, don't drum up people together to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea."
 
 ## Stock
-rnn
-DQN
+
+## rnn
+
+## DQN
