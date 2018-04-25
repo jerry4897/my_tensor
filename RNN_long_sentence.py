@@ -77,7 +77,7 @@ for i in range(500):
         index = np.argmax(result, axis=1)
         print(i, j, ''.join([char_set[t] for t in index]), l)
 
-# Let's print the last char of each result to check it works
+# Print the last char of each result to check it works
 results = sess.run(outputs, feed_dict={X: dataX})
 for j, result in enumerate(results):
     index = np.argmax(result, axis=1)
